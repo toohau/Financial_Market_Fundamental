@@ -1,9 +1,6 @@
 # Financial_Market_Fundamental
 Learn the basics of financial markets, insurance, and CAPM (Capital Asset Pricing Model).
 
-# Financial_Market_Fundamental
-Learn the basics of financial markets, insurance, and CAPM (Capital Asset Pricing Model).
-
 # Module 1 Key Points Summary
 
 ## Overview
