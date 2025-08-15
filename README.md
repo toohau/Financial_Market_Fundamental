@@ -1,5 +1,5 @@
 **Module 1 Key Points Summary** incorporating the provided **Learning Objectives** with relevant insights on ethics, risk, insurance, portfolio theory, and CAPM:
-
+- https://www.coursera.org/learn/financial-markets-global/home/module/1
 # Module 1 Key Points Summary
 
 ## Overview
