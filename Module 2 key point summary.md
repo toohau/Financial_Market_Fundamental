@@ -1,5 +1,5 @@
 Here is a key point summary of Module 2 from the Financial Markets course, covering the main concepts of Lessons 5, 6, 7, and the Honors module:
-
+- https://www.coursera.org/learn/financial-markets-global/home/module/2
 ***
 
 ### Module 2 Key Points Summary
