@@ -2,9 +2,6 @@
 
 -[https://www.coursera.org/learn/financial-markets-global/home/module/7](https://www.coursera.org/learn/financial-markets-global/home/module/7)
 
-**Module 7 Key Points Summary**
-[https://www.coursera.org/learn/financial-markets-global/home/module/7](https://www.coursera.org/learn/financial-markets-global/home/module/7)
-
 **Overview**
 Module 7 concludes the course by examining nonprofits, corporations, and career paths in finance, synthesizing key themes from prior modules. It explores organizational structures, their societal roles, and practical guidance for entering the financial industry. Learners reflect on how financial markets serve broader economic and social functions beyond profit maximization.[^3][^4]
 
