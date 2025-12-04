@@ -1,6 +1,5 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
-
-# Module 5 Key Points Summary [https://www.coursera.org/learn/financial-markets-global/home/module/5](https://www.coursera.org/learn/financial-markets-global/home/module/5)
+# Module 5 Key Points Summary 
+-[https://www.coursera.org/learn/financial-markets-global/home/module/5](https://www.coursera.org/learn/financial-markets-global/home/module/5)
 
 Module 5 Key Points Summary
 [](https://www.coursera.org/learn/financial-markets-global/home/module/5)
