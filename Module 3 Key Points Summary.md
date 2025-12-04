@@ -1,5 +1,8 @@
 Module 3 Key Points Summary
+- https://www.coursera.org/learn/financial-markets-global/home/module/3
+
 Overview
+
 This module focuses on capital budgeting and the evaluation of cash flows to support sound financial decisions. It teaches the importance of analyzing incremental cash flows and understanding how opportunity costs, sunk costs, and side effects impact investment choices. The module provides practical insights to help learners evaluate projects effectively and improve financial decision-making.
 
 Key Concepts
